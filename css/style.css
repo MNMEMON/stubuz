@@ -1,0 +1,506 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-link{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.one{
+    background-image: url('../image/uni6.png');
+    height: 600px;
+    background-size: 100% 100%;
+}
+.one h1{
+    margin-top: 250px;
+    color: white;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.one p{
+    color: white;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.box h4{
+    font-size: 20px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: none;
+}
+.box p{
+    font-size: 17px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+.box i{
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+#para{
+    background-color: blue; 
+    margin-top: -100px;
+     width: 250px;
+     margin-left: 20px;
+     height: 200px;
+}
+.pa h2{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+.pa p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* letter-spacing: 1px; */
+    /* font-weight: bold; */
+    font-size: 20px;
+}
+.pa button{
+    background-color: #4285F4;
+    font-size: 25px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
+.banner {
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.9)), url("../image/pic.png");
+    background-size: cover;
+    background-attachment: fixed;
+    margin-top: 60px;
+    height: 400px;
+    width: 100%;
+
+}
+.banner h2{
+    margin-top: 90px;
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.banner p{
+    /* margin-top: 90px; */
+    color: white;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.banner button{
+    background-color: #4285F4;
+    font-size: 25px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+
+.per img{
+    height: 400px;
+}
+.fot h4{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    margin-top: 50px;
+}
+.fot p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    /* margin-top: 60px; */
+}
+
+
+/* 2ndpage :start */
+.on{
+    background-image: url('../image/job1.png');
+    height: 600px;
+    background-size: 100% 100%;
+}
+.on h1{
+    margin-top: 150px;
+    color: black;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.on p{
+    color: black;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.mon input {
+    margin-top: 70px;
+    /* margin-left: 30px; */
+    font-weight: bold;
+    width: 210px;
+    height: 40px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mon{
+    height:150px;
+    width: 800px;
+    background-color: white;
+    border-radius: 30px;
+
+}
+select{
+    width: 210px;
+    height: 40px;
+    /* margin-left: 30px; */
+}
+.mon button{
+    background-color: #4285F4;
+   border: white;
+   font-size: 30px;
+   color: white;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   height: 45px;
+  width: 130px;
+  border-radius: 0px 20px 20px 0px;
+
+}
+label button{
+    margin-left: 190px;
+}
+label a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+label a :hover{
+    color: #4285F4;
+}
+label button{
+    width: 70px;
+    background-color:#4285F4;
+    border: white;
+    border-radius: 5px;
+    color: white;
+}
+.wha{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 150px;
+}
+.wha p{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    /* margin-top: 150px;    */
+}
+
+.banner1 {
+    background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.4)), url("../image/lap1.png");
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+
+}
+.banner1 h2{
+    margin-top: 130px;
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 50px;
+}
+.banner1 p{
+    /* margin-top: 90px; */
+    color: white;
+    font-size: 20px;
+    margin-left: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.banner1 button{
+    background-color: white;
+    font-size: 30px;
+    margin-left: 50px;
+    padding: 10px;
+    color: black;
+    font-weight: bold;
+    margin-top: 20px;
+    border: none;
+    border-radius: 10px;
+}
+.how i{
+    font-size: 50px;
+    text-align: center;
+    color: #4285F4;
+    margin-top: 50px;
+}
+.how h3{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.par h2{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.par p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box2 span{
+    margin-left: 30px;
+}
+.box2 p{
+    font-size: 17px;
+    /* font-weight: bold; */
+}
+.box2 h5{
+    font-size: 18px;
+}
+.box2 h6{
+    font-size: 15px;
+}
+.box2 a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #4285F4;
+    font-weight: bold;
+}
+.too h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.too p{
+    font-size: 20px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.too input{
+    height: 90px;
+    width: 550px;
+    border-radius: 40px;
+    border:white;
+    text-align: center;
+}
+.mil h4{
+    margin-top: 50px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.mil span{
+    margin-top: 50px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mil p{
+    font-size: 15px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:414px)
+{
+    .one h1{
+        font-size: 30px;
+    }
+    .one p{
+        font-size: 20px;
+    }
+    div#para{
+         margin-top: 50px;
+         margin-left: 40px;
+         width: 300px;
+    }
+    .banner{
+        height: 450px;
+    }
+    
+   #rowh4 p{
+        /* flex-direction: row;
+        justify-content: space-between; */
+        font-size: 1px;
+        color: red;
+    }
+    .mon{
+        flex-direction: column;
+        height: 400px;
+        width: 100%;
+    }
+    .on h1{
+        font-size: 30px;
+        margin-top: 50px;  
+    }
+    .on p{
+        font-size: 20px;
+        
+    }
+    #wo{
+        margin-top: 30px;
+        width: 200px;
+    }
+    .mon button{
+            margin-top: 30px;
+            width: 200px;
+            border-radius: 10px;
+    }
+    .wha {
+        font-size: 30px;
+        
+    }
+    .wha p {
+        font-size: 15px;
+    }
+    .pera a {
+        margin-left: 50px;
+    }
+    label button{
+        margin-left: 100px;
+        }
+        .banner1 h2{
+            font-size: 20px;
+        }
+        .banner1 p{
+            font-size: 15px;
+        }
+    
+    .too input{
+        width: 300px;
+    } 
+    .too h2{
+        font-size: 25px;
+    }  
+    .too p{
+        font-size: 12px;
+    }   
+}
+
+@media(max-width:360px)
+{
+    label button{
+        margin-left: 100px;
+        }   
+        .pera a {
+            margin-left: 10px;
+        }
+        
+    }
+
+
+
+
+@media(max-width:714px)
+{
+    .mon{
+        flex-direction: column;
+        height: 400px;
+        width: 100%;
+    }
+    .on h1{
+        font-size: 30px;
+        margin-top: 50px;  
+    }
+    .on p{
+        font-size: 20px;
+        
+    }
+    #wo{
+        margin-top: 30px;
+        width: 200px;
+    }
+    .mon button{
+            margin-top: 30px;
+            width: 200px;
+            border-radius: 10px;
+    }
+
+}
+
+@media(max-width:914px)
+{
+.mon{
+    flex-direction: column;
+    height: 400px;
+    width: 100%;
+}
+.on h1{
+    font-size: 30px;
+    margin-top: 50px;  
+}
+.on p{
+    font-size: 20px;
+    
+}
+#wo{
+    margin-top: 30px;
+    width: 200px;
+}
+.mon button{
+        margin-top: 30px;
+        width: 200px;
+        border-radius: 10px;
+}
+label a {
+    margin-left: 160px;
+    }   
+
+}
+@media(max-width:545px)
+{
+    label a{
+        margin-left: 30px;
+    }
+}
